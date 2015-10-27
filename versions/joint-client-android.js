@@ -1,6 +1,6 @@
 {
-  versions: {
-    minimum: 1,
-    latest: 1
+  "versions": {
+    "minimum": 1,
+    "latest": 1
   }
 }
